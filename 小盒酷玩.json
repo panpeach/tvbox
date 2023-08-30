@@ -19,7 +19,7 @@
 
 {"key":"wo_t4","name":"🧙玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=33d464b6ad014291991c64caf2b3947f","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "MX","name": "4K视界┃4K站B","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.90.7:86/api.php/app/"},
+{"key": "MX","name": "4K视界┃4K站B","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.90.7:86/api.php/app/","playUrl":"json:http://175.178.183.192:83/txqq.php?url="},
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
