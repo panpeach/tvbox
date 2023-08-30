@@ -100,7 +100,7 @@
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
-{"name": "🎯测试解析","type": 1,"url": "http://175.178.183.192:83/txqq.php?url="},
+{"name": "🎯测试解析","type": 1,"url": "http://175.178.183.192:83/txqq.php?url=","ext":{"flag":["qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🛵奇奇","type": 1, "url": "http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url=", "ext": { "flag": ["FY","Feiyun","FYNB"] ,"header":{"User-Agent": "LuaSocket 3.0-rc1"}}},
 
