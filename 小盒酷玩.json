@@ -27,7 +27,7 @@
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
-{"key":"qiqi","name":"🛵奇奇┃2K","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/","playUrl":"json:http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url="},
+{"key":"qiqi","name":"🛵奇奇┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
 
 {"key": "kytv", "name": "🧢新酷影┃TV", "type": 3,"playerType":1,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"}, 
 
@@ -99,6 +99,8 @@
 {"name": "web聚合","type": 3,"url": "Web"},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
+
+{"name": "🛵奇奇","type": 1, "url": "http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url=", "ext": { "flag": ["FY","Feiyun","FYNB"] ,"header":{"User-Agent": "LuaSocket 3.0-rc1"}}},
 
 {"name": "🐜蚂蚁","type": 1,"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
