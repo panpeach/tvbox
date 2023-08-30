@@ -98,6 +98,8 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
+{"name": "😈魔性","type": 1,"url": "http://175.178.183.192:83/txqq.php?url=","ext":{"flag":["qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
@@ -107,8 +109,6 @@
 {  "name":"🛵奇奇2K","type":1,"url":"http://42.157.128.109:2323/CH/zy/qiqi.php?url=","ext":{"flag":["qiqi","kuying-qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🐜蚂蚁","type": 1,"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-{"name": "😈魔性","type": 1,"url": "http://175.178.183.192:83/txqq.php?url=","ext":{"flag":["qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🎯VIP","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
