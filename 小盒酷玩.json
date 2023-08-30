@@ -102,6 +102,8 @@
 
 {"name": "🛵奇奇","type": 1, "url": "http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url=", "ext": { "flag": ["FY","Feiyun","FYNB"] ,"header":{"User-Agent": "LuaSocket 3.0-rc1"}}},
 
+{  "name":"🛵奇奇2K","type":1,"url":"http://42.157.128.109:2323/CH/zy/qiqi.php?url=","ext":{"flag":["qiqi","kuying-qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
 {"name": "🐜蚂蚁","type": 1,"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
