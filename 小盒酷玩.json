@@ -17,6 +17,8 @@
 
 {"key":"wo_t4","name":"🧙玩偶┃哥哥","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=33d464b6ad014291991c64caf2b3947f","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"QTV","name":"🎯vip┃专享","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1,"playUrl":"json:\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0031\u0031\u0039\u002e\u0039\u0031\u002e\u0033\u0031\u002e\u0032\u0032\u0034\u003a\u0038\u0031\u002f\u0074\u0078\u0071\u0071\u002e\u0070\u0068\u0070\u003f\u0075\u0072\u006c\u003d"},
+
 {"key": "MXTV","name": "😈魔性┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.90.7:86/api.php/app/"},
 
 {"key": "DPTV","name": "🎷大鹏┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"},
