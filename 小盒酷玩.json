@@ -19,8 +19,6 @@
 
 {"key":"QTV","name":"🎯VIP┃专享","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1,"playUrl":"json:\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0031\u0031\u0039\u002e\u0039\u0031\u002e\u0033\u0031\u002e\u0032\u0032\u0034\u003a\u0038\u0031\u002f\u0074\u0078\u0071\u0071\u002e\u0070\u0068\u0070\u003f\u0075\u0072\u006c\u003d"},
 
-{"key": "MXTV","name": "😈魔性┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.90.7:86/api.php/app/"},
-
 {"key": "DPTV","name": "🎷大鹏┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"},
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
@@ -30,8 +28,6 @@
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
-
-{"key":"qiqi","name":"🛵奇奇┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
@@ -43,21 +39,15 @@
 
 {"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
 
-{"key": "csp_来米","name": "🍿来米┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/来米.json"},
-
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 
-{"key":"yumi","name":"🌽玉米┃切片","type":1,"api":"http://ym.xzam.cn:66/api.php/provide/vod/","playUrl":"json:http://42.157.128.109:2323/CH/zy/Yumi.php?url="},
-
 {"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
-{ "key": "蚂蚁", "name": "🐜蚂蚁┃蓝光", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
 
 {"key":"ytyb","name":"🐰野兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
 
@@ -91,7 +81,7 @@
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key":"xh","name":"🎯2023.09.01更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh","name":"🎯2023.09.02更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
@@ -102,17 +92,9 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
-{"name": "😈魔性","type": 1,"url": "http://175.178.183.192:83/txqq.php?url=","ext":{"flag":["qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
-
-{"name": "🛵奇奇","type": 1, "url": "http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url=", "ext": { "flag": ["FY","Feiyun","FYNB"] ,"header":{"User-Agent": "LuaSocket 3.0-rc1"}}},
-
-{  "name":"🛵奇奇2K","type":1,"url":"http://42.157.128.109:2323/CH/zy/qiqi.php?url=","ext":{"flag":["qiqi","kuying-qq"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
-{"name": "🐜蚂蚁","type": 1,"url": "http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🎯VIP","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
