@@ -29,6 +29,8 @@
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
+{"key": "AppYs_ky","name": "酷影┃TV","type": 3,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./js/酷影.js"},
+
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key": "qq2k","name": "🏵QQ┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
@@ -93,6 +95,8 @@
 {"name": "web聚合","type": 3,"url": "Web"},
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
+
+{"name": "酷影专用","type": 1,"url": "http://jx.realdou.cn/api/?key=j4vwSEv2iAE54EWTbM&url=","ext": {"flag": ["kuying"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "🎯超级解析","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 
