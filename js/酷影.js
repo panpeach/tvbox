@@ -1,6 +1,6 @@
 var rule = {
 	title: '新酷影[V2]', // csp_AppYsV2
-	host: 'http://cms.realdou.cn:35264',
+	host: 'http://cms.realdou.cn:2683',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
@@ -17,12 +17,13 @@ var rule = {
 	searchable: 2,
 	quickSearch: 0,
 	filterable:1,
-	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
+	headers:{'User-Agent':'okhttp/3.12.11'},
 	timeout:5000,
 	class_name:'动漫&电视剧&电影&综艺', // 分类筛选 /api.php/app/nav
 	class_url:'4&2&1&3',
 	play_parse:true,
-	lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/kuying/.test(input)){let purl=request("http://box.realdou.cn/api/?api_id=4&vod_url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://42.157.128.109:2323/CH/zy/Yumi.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://box.realdou.cn/api/?api_id=5&vod_url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+	play_json:1,
+	//lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/kuying/.test(input)){let purl=request("http://jx.realdou.cn/api/?key=j4vwSEv2iAE54EWTbM&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',	
 	limit:6,
 	推荐:'json:list[0].vlist;*;*;*;*',
 	一级:'json:list;vod_name;vod_pic;vod_remarks||vod_score;vod_id',
