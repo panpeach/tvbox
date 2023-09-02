@@ -67,6 +67,8 @@
 
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
+{"key": "推送","name":"👶推送┃俊版","type":4,"api":"http://home.jundie.top:9520/spider/csp_Push?&token=33d464b6ad014291991c64caf2b3947f","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=33d464b6ad014291991c64caf2b3947f","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Hdhive_影巢","name":"🦜影巢┃阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
