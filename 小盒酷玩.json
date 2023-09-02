@@ -94,6 +94,8 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
+{"name": "🎯VIP专享","type": 1,"url": "http://119.91.31.224:81/txqq.php?url="},
+
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
 {"name": "酷影专用","type": 1,"url": "http://jx.realdou.cn/api/?key=j4vwSEv2iAE54EWTbM&url=","ext": {"flag": ["kuying"],"header": {"User-Agent": "okhttp/3.12.11"}}},
