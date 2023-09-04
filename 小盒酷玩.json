@@ -33,7 +33,7 @@
 
 {"key": "黑熊","name": "🐻黑熊┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/黑狐.json"},
 
-{"key": "drpy_B站","name": "🅱B站┃影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/B站影视.js"},
+{"key": "drpy_B站","name": "🅱站┃影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/B站影视.js"},
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
