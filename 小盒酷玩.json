@@ -31,8 +31,6 @@
 
 {"key": "黑熊","name": "🐻黑熊┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/黑狐.json"},
 
-{"key": "drpy_B站","name": "🅱站┃影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/B站影视.js"},
-
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key": "ymqp","name": "🌽玉米┃切片","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"api": "./lib/drpy2.min.js","ext": "./js/玉米.js"},
@@ -40,6 +38,8 @@
 {"key": "csp_Mayiys_忍者","name":"🥷忍者┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc","jar":"./jar/renzhe.jar"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+
+{"key":"ytyb","name":"🐰夜兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
 
 {"key": "影剧","name": "🔰影剧┃TV","type": 3,"api": "csp_XBPQ","ext":"./json/影剧.json"},
 
@@ -63,7 +63,7 @@
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
-{"key":"ytyb","name":"🐰野兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list"},
+{"key": "drpy_B站","name": "🅱站┃影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/B站影视.js"},
 
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
