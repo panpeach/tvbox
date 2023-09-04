@@ -17,6 +17,8 @@
 
 {"key":"QTV","name":"🎯VIP┃专享","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1,"playUrl":"json:http://119.91.31.224:81/txqq.php?url="},
 
+{"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=33d464b6ad014291991c64caf2b3947f","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "DPTV","name": "🎷大鹏┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"},
 
 {"key": "qq2k","name": "🏵QQ┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
@@ -30,8 +32,6 @@
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
 {"key": "黑熊","name": "🐻黑熊┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/黑狐.json"},
-
-{"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=33d464b6ad014291991c64caf2b3947f","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "drpy_B站","name": "🅱站┃影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/B站影视.js"},
 
