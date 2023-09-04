@@ -43,6 +43,8 @@
 
 {"key": "影剧","name": "🔰影剧┃TV","type": 3,"api": "csp_XBPQ","ext":"./json/影剧.json"},
 
+{"key":"4K采集","name":"🖖4K┃采集","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"},
+
 {"key": "DPTV","name": "🎷大鹏┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"},
 
 {"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
