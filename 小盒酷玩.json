@@ -29,6 +29,8 @@
 
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 
+{"key": "黑狐","name": "🐻黑狐┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/黑狐.json"},
+
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key": "ymqp","name": "🌽玉米┃切片","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"api": "./lib/drpy2.min.js","ext": "./js/玉米.js"},
