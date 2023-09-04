@@ -89,6 +89,8 @@
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
+{"key": "csp_XBPQ_VS", "name": "VS☆短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://www.91doutu.com/vodlist/{cateId}_{class}____.html","分类": "短剧$dj#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
+
 {"key":"xh","name":"🎯2023.09.02更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
