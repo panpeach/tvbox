@@ -27,8 +27,6 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key": "黑熊","name": "🐻黑熊┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/黑狐.json"},
-
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
 {"key": "csp_Mayiys_忍者","name":"🥷忍者┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.rzys.cc","jar":"./jar/renzhe.jar"},
