@@ -23,8 +23,6 @@
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
-{"key":"MTV","name":"🎯VIP┃备用","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1,"playUrl":"json:http://111.229.142.154/jxtxqq.php?url="},
-
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
