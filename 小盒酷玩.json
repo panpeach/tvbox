@@ -29,9 +29,9 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+{"key":"tengxun","name":"⭐腾讯┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾讯备用.js"},
 
-{"key":"ytyb","name":"🐰夜兔┃云播","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/"},
+{"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
