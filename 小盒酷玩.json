@@ -27,13 +27,13 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
+{"key": "大鹏","name": "🔌大鹏┃视界","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.jialiangos.com/api.php/app/"},
+
 {"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/txby.js"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
-
-{"key":"超前点播","name":"🚛超前点播","type":1,"api":"./sub/qq.php","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:http://119.91.31.224:82/txqq.php?url="},
 
 {"key":"玉米", "name": "🌽玉米┃切片", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
 
