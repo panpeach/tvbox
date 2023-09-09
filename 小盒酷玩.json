@@ -27,8 +27,6 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"key": "drpy_js_Alist","name": "4K┃高清","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
-
 {"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/txby.js"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
@@ -64,6 +62,8 @@
 {"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=af321e35ccca419ea747036a33cad0dd","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Hdhive_影巢","name":"🦜影巢┃云搜","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
+
+{"key": "drpy_js_Alist","name": "👑alist┃云盘","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
 {"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
