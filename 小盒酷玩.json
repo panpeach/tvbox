@@ -27,7 +27,7 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"key":"csp_Jianying","name":"🔌简影┃TV","type":3,"api":"csp_Jianying","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"hjju123@qq.com$$$123456"},
+{"key":"csp_Jianying","name":"🔌简影┃TV","type":3,"api":"csp_Jianying","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"hjju123@qq.com$$$123456","jar":"./jar/csp.jar"},
 
 {"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/txby.js"},
 
