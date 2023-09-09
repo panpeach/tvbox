@@ -27,7 +27,7 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"key": "drpy_js_Alist","name": "4K┃高清","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "./json/4k.json"},
+{"key": "drpy_js_Alist","name": "4K┃高清","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
 {"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/txby.js"},
 
