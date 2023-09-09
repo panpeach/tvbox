@@ -33,6 +33,8 @@
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
+{"key":"超前点播","name":"🚛超前点播","type":1,"api":"./sub/qq.php","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:http://119.91.31.224:82/txqq.php?url="},
+
 {"key":"玉米", "name": "🌽玉米┃切片", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
