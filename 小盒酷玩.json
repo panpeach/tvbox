@@ -27,8 +27,6 @@
 
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"key":"csp_Jianying","name":"🔌简影┃TV","type":3,"api":"csp_Jianying","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"hjju123@qq.com$$$123456"},
-
 {"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/txby.js"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
@@ -106,7 +104,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"./jar/xhkwvip.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+"spider":"./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 
 
 "wallpaper":"https://tool.weetai.cn/api",
