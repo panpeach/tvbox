@@ -37,6 +37,8 @@
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
+{"key":"迷你库","name":"❣迷你库┃TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
 {"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
