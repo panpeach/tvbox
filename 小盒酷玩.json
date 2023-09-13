@@ -29,8 +29,6 @@
 
 {"key": "csp_毛驴","name": "🐴毛驴┃TV","type": 3,"api": "csp_XBPQ","ext":"./json/毛驴.json"},
 
-{"key": "kwmb","name": "🦴酷玩┃秒播","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=","categories": ["电影","连续剧","动漫","综艺"]},
-
 {"key":"csp_AppYsV2_影探","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key":"来米影视","name":"🌾来米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
