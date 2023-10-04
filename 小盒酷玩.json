@@ -15,7 +15,7 @@
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "e01b39269a134f76876d2931d33b07b4","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
+{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "47a5846c04504759b5d3f43e279fc6ef","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=47a5846c04504759b5d3f43e279fc6ef","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -30,6 +30,16 @@
 {"key": "熊猫","name": "🐼熊猫┃追剧","type": 3,"api": "csp_XBPQ","ext": "./json/熊猫.json"},
 
 {"key":"酷影","name":"🧿酷影┃TV","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
+
+{"key":"mino4K","name":"⛅mino┃TV","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"},
+
+{"key": "追忆","name": "🌠追忆┃TV","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
+
+{"key": "App热剧","name": "🐱热剧猫┃TV","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
+
+{"key": "橘子","name": "🍊橘子┃TV","type": 3,"api": "csp_Appto","jar": "https://download.kstore.space/download/3313/app/to.jar","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"},
+
+{"key": "来米","name": "🍿来米┃影视","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "2","ext":"./json/来米.json"},
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
