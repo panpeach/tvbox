@@ -15,11 +15,13 @@
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "47a5846c04504759b5d3f43e279fc6ef","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
+{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "c7d90e84e49148f6a0bab29377d8e266","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=c7d90e84e49148f6a0bab29377d8e266","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 { "key": "路人", "name": "🏃路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
+
+{"key":"米诺影视","name":"⛅SVIP┃MINO","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
 
 {"key": "maolv_open","name": "🐴毛驴┃TV","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
 
