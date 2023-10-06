@@ -21,7 +21,7 @@
 
 { "key": "路人", "name": "🏃路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
-{"key":"米诺影视","name":"⛅SVIP┃MINO","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
+{"key":"米诺影视","name":"⛅MINO┃影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/Appto.jar"},
 
 {"key": "maolv_open","name": "🐴毛驴┃TV","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
 
