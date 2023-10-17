@@ -1,4 +1,4 @@
- {
+{
     
     "作者":"小盒酷玩",
     
@@ -6,7 +6,7 @@
     
     "主页url":"https://www.freeok.vip",
     
-    "简介":"小盒酷玩提醒您：请勿相信影片中的广告，以免上当受骗！+module-info-introduction-content\">&&</p>",
+    "简介":"【小盒酷玩】提醒您请勿相信影片中的广告，以免上当受骗！+module-info-introduction-content\">&&</p>",
     
     "导演":"导演：&&</div>",
     
@@ -26,22 +26,23 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索url": "https://www.cupfox.app/s/{wd}",
-     
     "搜索模式": "1",
-                
+
     "搜索二次截取": "type=\"application/json\">&&</script>",
-                                            "搜索数组": "{\"te&&}[包含:freeok]",
     
-    "搜索标题": "xt\":\"&&\"",
+    "搜索url": "https://search.ymck.me/index.php?q={wd}",
                 
-    "搜索链接": "\"url\":\"&&\"",
+    "搜索数组": "<b>&&</b>[包含:Freeok]",
                 
-    "搜索副标题": "FREEOK",
+    "搜索副标题": "<a>&&</a>",
     
+    "搜索标题": "class='movie_name'>&&</a>",
+                
+    "搜索链接": "href=\"&&\"",
+   
     "搜索图片":"http://shop.kdzj.vip/1.jpg",
     
-    "线路数组":"data-dropdown-value=&&</div>",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
     
     "线路标题":"小盒酷玩-+<span>&&</small>[替换:高清频道>>高清#备用频道>>备用#OK频道>>OK#</span><small>>>>共]+集",
     
