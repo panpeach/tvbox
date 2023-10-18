@@ -15,9 +15,9 @@
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "bfe13fa91c774fabb18800b5dbfbbd52","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
+{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "12ef5c9282cc41c7835abbd06f57d732","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
-{"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=bfe13fa91c774fabb18800b5dbfbbd52","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=12ef5c9282cc41c7835abbd06f57d732","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"6v","name":"🤘SVIP┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
@@ -55,7 +55,7 @@
 
 {"key":"爱迪","name":"💡SVIP┃艾迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
-{"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=bfe13fa91c774fabb18800b5dbfbbd52","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=12ef5c9282cc41c7835abbd06f57d732","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
