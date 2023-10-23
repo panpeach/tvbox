@@ -25,6 +25,8 @@
 
 {"key": "348","name": "📐SVIP┃348","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
 
+{"key": "csp_Kuaikan","name": "💡快看|直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/kuaikan.jar"},
+
 {"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
 {"key":"子子影视","name":"➰SVIP┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
