@@ -21,7 +21,7 @@
 
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{ "key":"短剧","name":"短剧┃TV", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/DJ.jar"},
+{ "key":"短剧","name":"🏏短剧┃TV", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/DJ.jar"},
 
 {"key": "348","name": "📐348┃影视","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
 
