@@ -61,7 +61,7 @@
 
 {"key": "csp_55","name": "👓55┃看剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/55.json"},
 
-{"key": "csp_Kuaikan","name": "💡快看|直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/kuaikan.jar"},
+{"key": "csp_Kuaikan","name": "💡快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/kuaikan.jar"},
 
 {"key": "csp_柒月","name": "💅柒月┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月.json"},
 
