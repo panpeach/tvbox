@@ -43,8 +43,6 @@
 
 {"key": "热播","name": "🔥热播┃之家","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1","ext": "./json/热播.json"},
 
-{"key":"csp_短剧","name":"📺短剧┃TV","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/短剧.json","jar":"./jar/jiaoyu.jar"},
-
 {"key": "世界","name": "🌎世界┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
 {"key": "csp_干饭","name": "🥣干饭┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
@@ -58,6 +56,8 @@
 {"key": "csp_小苹果","name": "🍎小苹果┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/小苹果.json"},
 
 {"key": "csp_55","name": "👓55┃看剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/55.json"},
+
+{"key": "csp_Kuaikan","name": "💡快看|直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/kuaikan.jar"},
 
 {"key": "csp_柒月","name": "💅柒月┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月.json"},
 
@@ -100,6 +100,8 @@
 {"key": "PanSou","name": "🔘盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
 {"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
+
+{"key":"csp_短剧","name":"📺短剧┃TV","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/短剧.json","jar":"./jar/jiaoyu.jar"},
 
 {"key":"xh","name":"🎯2023.10.27更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
