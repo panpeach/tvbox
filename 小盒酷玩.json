@@ -47,6 +47,8 @@
 
 {"key": "csp_干饭","name": "🥣干饭┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
 
+{ "key":"短剧","name":"💾一起┃看剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/xhkw/vip/-/raw/main/jar/DJ.jar"},
+
 {"key": "csp_疯狗","name": "🐶疯狗┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/疯狗.json"},
 
 {"key": "csp_98","name": "🎲98┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/98.json"},
