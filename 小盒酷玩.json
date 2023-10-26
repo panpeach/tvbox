@@ -39,11 +39,45 @@
 
 {"key": "耐看","name": "🕶耐看┃点播","type": 3,"api": "csp_XBPQ","ext": "./json/耐看.json"},
 
+{"key": "csp_好戏","name": "🤽好戏┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/好戏.json"},
+
 {"key": "热播","name": "🔥热播┃之家","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1","ext": "./json/热播.json"},
 
 { "key":"短剧","name":"🏓影视┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/DJ.jar"},
 
 {"key": "世界","name": "🌎世界┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
+
+{"key": "csp_干饭","name": "🥣干饭┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/干饭.json"},
+
+{"key": "csp_疯狗","name": "🐶疯狗┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/疯狗.json"},
+
+{"key": "csp_98","name": "🎲98┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/98.json"},
+
+{"key": "csp_奇优","name": "🗿奇优┃追剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/奇优.json"},
+
+{"key": "csp_大师兄","name": "🐵大师兄┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大师兄.json"},
+
+{"key": "csp_55","name": "👓55┃看剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/55.json"},
+
+{"key": "csp_柒月","name": "💅柒月┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月.json"},
+
+{"key": "csp_刚刚","name": "🐣刚刚┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/刚刚.json"},
+
+{"key": "csp_lol","name": "🍡lol┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/lol.json"},
+
+{"key": "csp_土豪","name": "🧕土豪┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/土豪.json"},
+
+{"key": "csp_345","name": "🍪345┃看片","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/345.json"},
+
+{"key": "csp_蛋蛋","name": "🥚蛋蛋┃剧场","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/蛋蛋.json"},
+
+{"key": "csp_黑狐","name": "🦝黑狐┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黑狐.json"},
+
+{"key": "csp_苹果","name": "🍎苹果┃追剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/苹果.json"},
+
+{"key": "csp_农民","name": "🕴农民┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/农民.json"},
+
+{"key": "csp_午夜","name": "🌚午夜┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/午夜.json"},
 
 {"key": "素白","name": "🕣影视┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
