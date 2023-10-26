@@ -55,7 +55,7 @@
 
 {"key": "csp_奇优","name": "🗿奇优┃追剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/奇优.json"},
 
-{"key": "csp_大师兄","name": "🍎小苹果┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/大师兄.json"},
+{"key": "csp_小苹果","name": "🍎小苹果┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/小苹果.json"},
 
 {"key": "csp_55","name": "👓55┃看剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/55.json"},
 
