@@ -61,7 +61,7 @@
 
 {"key": "csp_柒月","name": "💅柒月┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月.json"},
 
-{"key": "csp_刚刚","name": "🐣光棍┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/刚刚.json"},
+{"key": "csp_光棍","name": "🐣光棍┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/光棍.json"},
 
 {"key": "csp_lol","name": "🍡lol┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/lol.json"},
 
