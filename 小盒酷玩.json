@@ -358,8 +358,8 @@
       "key": "腾讯",
       "name": "⭕官方┃资源",
       "type": 3,
-      "api": "https://jihulab.com/panpeach/vip/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/panpeach/vip/js/tengxun.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://jihulab.com/panpeach/vip/js/tengxun.js"
     },
     {
       "key": "荐片",
