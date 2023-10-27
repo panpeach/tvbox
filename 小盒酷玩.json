@@ -367,7 +367,7 @@
       "type": 3,
       "playerType": 1,
       "api": "./lib/drpy2.min.js",
-      "ext": "http://xn--yet226clhctt4b.fun:66/js/荐片.js"
+      "ext": "./js/荐片.js"
     },
     {
       "key": "爱迪",
