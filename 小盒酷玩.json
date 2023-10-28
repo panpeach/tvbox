@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🍑|peach",
+      "name": "🍑peach",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/douban.js"
