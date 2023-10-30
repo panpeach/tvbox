@@ -506,6 +506,11 @@
       "url": "Web"
     },
     {
+      "name": "🌽玉米",
+      "type": 1,
+      "url": "http://61.147.93.21:8090/index.php?url="
+    },
+    {
       "name": "🌾左岸",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
