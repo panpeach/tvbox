@@ -473,6 +473,18 @@
       "ext": "./json/wqdm.json"
     },
     {
+      "key": "玩偶妹妹",
+      "name": "🤡玩偶┃妹妹",
+      "type": 3,
+      "jar": "https://jihulab.com/panpeach/tvbox/-/raw/main/jar/阿里云盘.jar",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/阿里推送.json$$$https://wogg.xyz/$$$null$$$1",
+      "timeout": 30
+    },
+    {
       "key": "xh",
       "name": "🍑2023.10.27更新",
       "type": 3,
@@ -580,7 +592,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/xhkw66.jar;md5;c435869db6a928f45df09b736d81f02f",
+  "spider": "./jar/xhkwsvip.jar;md5;c435869db6a928f45df09b736d81f02f",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
