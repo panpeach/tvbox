@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "🎯小盒酷玩VIP┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key":"玩偶妹妹","name":"🤡玩偶┃妹妹","type":3,"jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/阿里云盘.jar","api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/阿里推送.json$$$https://wogg.xyz/$$$null$$$1","timeout":30},
+{"key":"玩偶妹妹","name":"🤡玩偶┃妹妹","type":3,"jar": "https://jihulab.com/panpeach/tvbox/-/raw/main/jar/阿里云盘.jar","api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/阿里推送.json$$$https://wogg.xyz/$$$null$$$1","timeout":30},
 
 
 
