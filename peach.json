@@ -514,7 +514,8 @@
       "name": "🌾左岸",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-      "ext": {
+    }
+    ], 
         "flag": [
           "爱奇艺",
           "奇艺",
