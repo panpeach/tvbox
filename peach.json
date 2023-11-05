@@ -414,6 +414,16 @@
       "ext": "./libs/鸭奈飞.js"
     },
     {
+      "key": "js_nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./libs/nangua.js"
+    },
+    {
       "key": "爱迪",
       "name": "💡爱迪┃外剧",
       "type": 3,
