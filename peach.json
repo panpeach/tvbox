@@ -605,8 +605,8 @@
       "key": "畅梦",
       "name": "💤┃畅梦┃影视",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./libs/changmeng.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/changmeng.js"
     },
     {
       "key": "爱迪",
