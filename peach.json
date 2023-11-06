@@ -477,7 +477,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
+      "ext": "./libs/348z.json"
     },
     {
       "key": "js_bzys",
