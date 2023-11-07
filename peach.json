@@ -234,7 +234,7 @@
     },
         {
       "key": "xml_火狐",
-      "name": "🍎小苹果┃备用源四",
+      "name": "🍎备用源四",
       "type": 1,
       "style": {
         "type": "rect",
@@ -276,7 +276,7 @@
     },
     {
       "key": "49zy",
-      "name": "🍎小苹果┃备用源五",
+      "name": "🍎备用源五",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
