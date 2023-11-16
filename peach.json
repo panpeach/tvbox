@@ -454,11 +454,11 @@
       "key": "js_czsapp",
       "name": "🏭️┃厂长┃资源",
       "type": 3,
-      "api": "https://jihulab.com/panpeach/tvbox/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/panpeach/tvbox/-/raw/main/libs/czspp.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/czspp.js"
     },
     {
       "key": "csp_午夜",
