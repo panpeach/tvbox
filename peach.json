@@ -451,6 +451,16 @@
       "ext": "./json/农民.json"
     },
     {
+      "key": "js_czsapp",
+      "name": "🏭️┃厂长┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/panpeach/tvbox/-/blob/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/panpeach/tvbox/-/blob/main/libs/czspp.js"
+    },
+    {
       "key": "csp_午夜",
       "name": "🌚午夜┃影视",
       "type": 3,
@@ -736,7 +746,7 @@
     },
     {
       "key": "xh",
-      "name": "🍑2023.11.07更新",
+      "name": "🍑2023.11.16更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
