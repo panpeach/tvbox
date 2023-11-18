@@ -544,6 +544,16 @@
       "ext": "./libs/nangua.js"
     },
     {
+      "key": "csp_beijihu",
+      "name": "🎪┃极狐┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
       "key": "鑫鑫影视",
       "name": "🥇┃鑫鑫┃影视",
       "type": 3,
@@ -769,7 +779,7 @@
     },
     {
       "key": "xh",
-      "name": "🍑2023.11.16更新",
+      "name": "🍑2023.11.18更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
