@@ -790,7 +790,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "Biliych",
