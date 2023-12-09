@@ -798,6 +798,14 @@
       "ext": "./json/wqdm.json"
     },
     {
+      "key": "drpy_哔哩",
+      "name": "🅱┃哔哩┃合集",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "playerType": 1,
+      "ext": "https://d.kstore.space/download/6296/js/B站.js"
+    },
+    {
       "key": "xh",
       "name": "🍑2023.12.09更新",
       "type": 3,
