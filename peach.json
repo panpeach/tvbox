@@ -461,6 +461,16 @@
       "ext": "./libs/czspp.js"
     },
     {
+      "key": "csp_Czsapp",
+      "name": "🏭厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzy33.com/"
+    },
+    {
       "key": "csp_午夜",
       "name": "🌚午夜┃影视",
       "type": 3,
