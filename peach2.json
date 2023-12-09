@@ -782,15 +782,11 @@
       "key": "Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
+      "api": "./libs/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "Biliych",
