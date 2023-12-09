@@ -801,6 +801,7 @@
       "key": "drpy_哔哩",
       "name": "🅱┃哔哩┃合集",
       "type": 3,
+      "jar": "./jar/PandaQ231205.jar",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "playerType": 1,
       "ext": "https://d.kstore.space/download/6296/js/B站.js"
