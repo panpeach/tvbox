@@ -31,7 +31,7 @@
       "key": "玩偶妹妹",
       "name": "🤡玩偶┃妹妹",
       "type": 3,
-      "jar": "https://jihulab.com/panpeach/tvbox/-/raw/main/jar/阿里云盘.jar",
+      "jar": "./jar/阿里云盘.jar",
       "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
@@ -180,7 +180,7 @@
       "categories": [
         "短剧"
       ],
-      "jar": "https://jihulab.com/panpeach/tvbox/-/raw/main/jar/DJ.jar"
+      "jar": "./jar/DJ.jar"
     },
     {
       "key": "csp_疯狗",
@@ -531,7 +531,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/panpeach/tvbox/-/raw/main/libs/蘑菇.json"
+      "ext": "./libs/蘑菇.json"
     },
     {
       "key": "js_耐菲",
@@ -750,7 +750,7 @@
       "key": "csp_Kunyu77",
       "name": "👒酷云七七",
       "type": 3,
-      "jar": "https://jihulab.com/panpeach/tvbox/-/raw/main/jar/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
@@ -760,7 +760,7 @@
       "key": "csp_Cokemv",
       "name": "🚗可乐",
       "type": 3,
-      "jar": "https://jihulab.com/panpeach/tvbox/-/raw/main/jar/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
