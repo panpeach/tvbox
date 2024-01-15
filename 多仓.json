@@ -2,9 +2,9 @@
 
 "storeHouse": [
 
-{"sourceName": "🍑peach一仓🍑","sourceUrl": "https://jihulab.com/panpeach/tvbox/-/raw/main/单仓.json"},
+{"sourceName": "🍑peach一仓🍑","sourceUrl": "https://raw.githubusercontent.com/panpeach/tvbox/main/单仓.json"},
 
-{"sourceName": "🍑peach二仓🍑","sourceUrl": "https://jihulab.com/panpeach/tvbox/-/raw/main/单仓2.json"}
+{"sourceName": "🍑peach二仓🍑","sourceUrl": "https://raw.githubusercontent.com/panpeach/tvbox/main/单仓2.json"}
 
 
 ]
