@@ -161,13 +161,13 @@
     },
     {
       "key": "csp_可可影视",
-      "name":"可可影视",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./json/可可影视.json"
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/可可影视.json"
     },
     {
       "key": "csp_干饭",
