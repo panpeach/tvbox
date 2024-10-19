@@ -160,6 +160,16 @@
       "ext": "http://106.52.241.21:83/api.php/app/"
     },
     {
+      "key": "csp_可可影视",
+      "name":"可可影视",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./json/可可影视.json"
+    },
+    {
       "key": "csp_干饭",
       "name": "🥣干饭┃TV",
       "type": 3,
