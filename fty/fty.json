@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/panpeach/tvbox@main/fty/fty.jar;md5;b145c1db9db5f37d2be8f13a7de84464",
+  "spider": "./fty.jar;md5;b145c1db9db5f37d2be8f13a7de84464;md5;b145c1db9db5f37d2be8f13a7de84464",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
