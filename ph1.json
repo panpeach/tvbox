@@ -3,13 +3,15 @@
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
     {
-      "key": "ms4nii",
-      "name": "美少女",
+      "key": "dadiapi.com",
+      "name": "成人",
       "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
+      "api": "http://dadiapi.com/api.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "recordable": 0,
+      "style": {
+          "type": "rect",
+          "ratio": 1.33
     },
 	    {
             "key": "dadiapi.com",
